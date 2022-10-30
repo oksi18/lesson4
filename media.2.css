@@ -1,0 +1,27 @@
+@media  screen  and (min-width: 0px) and (max-width: 450px){
+  .container {
+    background: burlywood;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+
+  }
+  .block-A {
+    height: 10vh;
+    width: 99%;
+    background: white;
+  }
+  .container-A {
+    width: 99%;
+    display: block;
+  }
+  .block-F {
+    height: 10vh;
+    width: 99%;
+    background: white;
+  }
+  .container-B {
+    width: 100%;
+  }
+
+}
